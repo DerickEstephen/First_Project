@@ -1,3 +1,3 @@
-# First GitHub Repo
-This project is my first github repo.<BR>
+# First_Project
+This project is my first github project.<BR>
 <strong>Author - Derick Estephen</strong> 
