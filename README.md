@@ -1,2 +1,3 @@
-# MaxAuto
-This project is related to automotive information, spare parts store and the some tools.
+# First GitHub Repo
+This project is my first github repo.<BR>
+<strong>Author - Derick Estephen</strong> 
